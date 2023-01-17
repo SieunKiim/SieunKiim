@@ -23,12 +23,11 @@
     더 나은 방식에 주저하지 않고 도전합니다. 다양한 시도를 통해 개선사항을 반영하며 사용자를 우선으로 생각하는 개발을 위해 노력하고 있습니다.
  
 
- 
-  
-   
+
    
 
-![Sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SieunKiim&theme=dark&show_icons=true)
+![Sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SieunKiim)
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun960513)](https://solved.ac/sieun960513)
 
